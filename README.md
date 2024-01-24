@@ -21,9 +21,11 @@ Such an initiative has inevitable real-world costs. We aim to keep these as lean
 
 ## Focus 
 
-There has been considerable advancements in primitives in our space, but we risk losing sight of some original cypherpunk ideals of self-sovereignty. We welcome all hardware and software hackers to attend an open hackspace for experimentation and a series of practical workshops on various topics. 
+There have been considerable advancements in software primitives in our space. We are, however, losing sight of some original cypherpunk ideals of self-sovereignty, and running your own hardware infra.
 
-Topics
+As such, we welcome all hardware and software hackers to attend an open hackspace for experimentation and a series of practical workshops on various topics, relating to the intersection of hardware and software. 
+
+### Topics
 
  - running your own node
    - RPC endpoints
@@ -37,14 +39,23 @@ Topics
    - FPGAs, GPUs 
    - client side proving
    - participating in proving markets
-  
-     
-Structure: 
- - Open hack space
- - workshops
- - closing ceremony showcase and findings 
+ - operations
+   - booting and deployment
+   - configuration management
+   - software development lifecycle
+ - open standards
+   - software
+   - hardware
 
-BYOH: Bring your own hardware. Think rasbperrypi, pinephhone, rock5b, GPUs, FPGAs, pinewatch, 3d printers..etc. 
+### Structure 
+ - Open Hack Space
+ - Workshops
+ - Show and Tell
+ - Closing Ceremony 
+
+### BYOH: Bring your own hardware.
+
+Think rasbperrypi, pinephone, rock5b, GPU, FPGA, pinewatch, 3d printers, TVs, ATMs, cameras, microphones, screens, speakers, etc. 
 
 ## Venue
 
@@ -76,3 +87,5 @@ This event is intended to be non-profit and community based. We would be glad fo
 ## Contributor
 
 * [@burningtree](https://github.com/burningtree)
+* [@mohammed7s](https://github.com/mohammed7s)
+* [@chrishobcroft](https://github.com/chrishobcroft)
